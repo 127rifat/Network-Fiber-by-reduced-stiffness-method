@@ -161,6 +161,6 @@ def process_mesh(mesh_file_name, mesh_params_file_name):
 
 
 # Example usage (replace 'your_mesh_file.mesh' and 'your_param_file.params' with actual filenames)
-mesh_file_name = 'rearranged_mesh_tr.txt'
-mesh_params_file_name = 'Network_2_7.txt.params'
+mesh_file_name = 'mesh_file_name.txt'
+mesh_params_file_name = 'mesh_file_name.txt.params'
 process_mesh(mesh_file_name, mesh_params_file_name)
